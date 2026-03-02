@@ -1,3 +1,5 @@
+### Data Cleaning and Validation Projects.
+
 This repository showcases practical, real-world projects focused on data cleaning, transformation, and validation using SQL, Excel, and Power BI.
 
 Raw data is rarely analysis-ready. Across these projects, I demonstrated how to convert messy, inconsistent datasets into structured, reliable, and analysis-ready data assets.
