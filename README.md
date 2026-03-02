@@ -71,3 +71,14 @@ Each project includes:
 - **Tools:** Microsoft Excel, SQL Server  
 - **Document:** [View messy, clean, screenshot and sql file here →](https://drive.google.com/drive/folders/1lisCIi2rWess14IepEHl3K-mNe_ZYyUl?usp=drive_link)  
 - **Repository:** [View Project →](https://github.com/Opelobami/Sales-Data-Cleaning-and-Analysis)
+
+---
+
+### Messy ecommerce data cleaning and validation
+**A complete end-to-end data cleaning and validation workflow using a raw, inconsistent e-commerce dataset. The dataset contained missing values, inconsistent date formats, pricing errors,  inconsistent product labels, customer name, shipping address and status.**
+
+- **Tools:** Microsoft Excel, Power Query  
+- **Document:** [View messy, clean, screenshot and sql file here →](https://drive.google.com/drive/folders/1jsdaMhQEuwKJcn-bqkS7Flg-sKx7oyj7?usp=drive_link)  
+- **Repository:** [View Project →](https://github.com/Opelobami/Messy_e-commerce-data-cleaning-and-validation)
+
+---
