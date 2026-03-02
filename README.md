@@ -1,80 +1,55 @@
-# Sales-Data-Cleaning-and-Analysis (SQL Server)
-This repository showcases an end-to-end SQL data analytics workflow using SQL Server, focused on transforming raw, messy sales data into analytics-ready datasets and deriving business insights.
+This repository showcases practical, real-world projects focused on data cleaning, transformation, and validation using SQL, Excel, and Power BI.
 
-## Project Overview
-This project demonstrates a full end-to-end SQL workflow:
-- Importing raw, dirty sales data
-- Cleaning and validating data
-- Removing duplicates safely
-- Answering business questions using SQL aggregations and date functions
+Raw data is rarely analysis-ready. Across these projects, I demonstrated how to convert messy, inconsistent datasets into structured, reliable, and analysis-ready data assets.
 
-The goal is to simulate real-world analytical work using SQL Server.
+What These Projects Demonstrated
 
----
+1. Identifying and handling missing values
 
-## Dataset
-- 50,000 rows of synthetic sales data
-- Contains intentional data quality issues:
-  - Duplicate order IDs
-  - NULL customer IDs
-  - Negative quantities and sales
-  - Null and invalid discounts
-  - Inconsistent return flags  
+2. Removing duplicates and resolving inconsistencies
 
-🔗 **[View messy, cleaned dataset, SQL scripts and few screenshots here](https://drive.google.com/drive/folders/1lisCIi2rWess14IepEHl3K-mNe_ZYyUl?usp=drive_link)**  
+3. Standardizing formats (dates, text, categories)
 
----
+4. Detecting outliers and anomalies
 
-## Data Cleaning Steps
-1. Removed duplicate order IDs using a surrogate key
-2. Standardized categorical fields (region, country and product_category)
-3. Cleaned and validated numerical fields (quantity, unit price, and discount)
-4. Recalculated sales amount from clean inputs
-5. Standardized returned flag to 1 (Returned), 0 (Not Returned) and NULL for empty returned.
-6. Created clean, reusable tables for analysis
+5. Data type corrections and schema alignment
 
----
+6. Building validation rules for data integrity
 
-## Business Questions Answered
-- What is the total sales for returned vs non-returned orders?
-- Which region generates the highest revenue?
-- Which product category performs best?
-- What is the average order value?
-- Which sales channel drives more revenue?
-- Do higher discounts lead to more returns?
-- What percentage of sales is from returned orders?
+7. Cross-table reconciliation and referential checks
 
----
+8. Creating clean datasets ready for reporting and modeling
 
-## Tools and SKills demonstrated
-- SQL Server (T-SQL)
-- Google docs
-- data cleaning and validation
-- Business-driver analytics
-- Reproducible SQL workflows
-- GitHub documentation best practices
+🛠 Tools Used
 
----
+SQL (data profiling, validation queries, constraints)
 
-## Why this Project Matters
-This project demonstrates the ability to work with imperfect real-world data, apply sound data quality principles, and translate raw data into meaningful business insights using SQL. It reflects the type of analytical work performed in production environments by data analysts and analytics engineers
+Microsoft Excel (data transformation & quality checks)
 
-## Key Learnings
-- Practical data cleaning in SQL
-- Handling real-world messy data
-- Writing business-focused SQL queries
-- Structuring an analytics portfolio project
+Power BI (data modeling & transformation using Power Query)
 
----
+Power Query (ETL processes)
 
-## Contact  
+📌 Why This Matters
 
-Let’s connect or collaborate on **Business Intelligence, Data Analytics, or SQL projects** 👇  
+Clean data is the foundation of accurate analytics. These projects highlight my ability to:
 
-**👤 Name:** Opeyemi Ayodeji  
-**🔗 LinkedIn:** [Opeyemi Ayodeji](https://www.linkedin.com/in/opeyemi-ayodeji-86a696b0/)  
-**📧 Email:** sopeyemi65@gmail.com  
+1. Improve data reliability
 
----
+2. Reduce reporting errors
 
-*From messy sales data to business insights using SQL Server.*
+3. Strengthen business decision-making
+
+4. Design repeatable data quality processes
+
+Each project includes:
+
+1. Original raw dataset
+
+2. Documented cleaning steps
+
+3. Validation queries/checks
+
+4. Final cleaned dataset
+
+5. Summary of key data issues discovered
