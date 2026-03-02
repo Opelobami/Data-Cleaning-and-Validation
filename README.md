@@ -2,6 +2,8 @@ This repository showcases practical, real-world projects focused on data cleanin
 
 Raw data is rarely analysis-ready. Across these projects, I demonstrated how to convert messy, inconsistent datasets into structured, reliable, and analysis-ready data assets.
 
+---
+
 What These Projects Demonstrated
 
 1. Identifying and handling missing values
@@ -20,6 +22,8 @@ What These Projects Demonstrated
 
 8. Creating clean datasets ready for reporting and modeling
 
+---
+
 🛠 Tools Used
 
 SQL (data profiling, validation queries, constraints)
@@ -30,6 +34,7 @@ Power BI (data modeling & transformation using Power Query)
 
 Power Query (ETL processes)
 
+---
 📌 Why This Matters
 
 Clean data is the foundation of accurate analytics. These projects highlight my ability to:
@@ -42,6 +47,8 @@ Clean data is the foundation of accurate analytics. These projects highlight my 
 
 4. Design repeatable data quality processes
 
+---
+
 Each project includes:
 
 1. Original raw dataset
@@ -53,3 +60,14 @@ Each project includes:
 4. Final cleaned dataset
 
 5. Summary of key data issues discovered
+
+---
+
+## 🧩 Featured Projects  
+
+### Sales Data cleaning and analysis (SQL Server) 
+**An end-to-end SQL data analytics workflow using SQL Server, focused on transforming raw, messy sales data into analytics-ready datasets and deriving business insights.**  
+
+- **Tools:** Microsoft Excel, SQL Server  
+- **Document:** [View messy, clean, screenshot and sql file here →](https://drive.google.com/drive/folders/1lisCIi2rWess14IepEHl3K-mNe_ZYyUl?usp=drive_link)  
+- **Repository:** [View Project →](https://github.com/Opelobami/Sales-Data-Cleaning-and-Analysis)
