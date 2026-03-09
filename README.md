@@ -6,7 +6,7 @@ Raw data is rarely analysis-ready. Across these projects, I demonstrated how to 
 
 ---
 
-What These Projects Demonstrated
+# What These Projects Demonstrated
 
 1. Identifying and handling missing values
 
@@ -26,7 +26,7 @@ What These Projects Demonstrated
 
 ---
 
-🛠 Tools Used
+# 🛠 Tools Used
 
 SQL (Data profiling, validation queries, constraints)
 
@@ -37,7 +37,7 @@ Power BI (Data transformation using Power Query)
 Power Query (ETL processes)
 
 ---
-📌 Why This Matters
+# 📌 Why This Matters
 
 Clean data is the foundation of accurate analytics. These projects highlight my ability to:
 
@@ -51,7 +51,7 @@ Clean data is the foundation of accurate analytics. These projects highlight my 
 
 ---
 
-Each project includes:
+# Each project includes:
 
 1. Original raw dataset
 
