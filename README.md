@@ -1,4 +1,4 @@
-### Data Cleaning and Validation Projects.
+# Project Overview
 
 This repository showcases practical, real-world projects focused on data cleaning, transformation, and validation using SQL, Excel, and Power BI.
 
