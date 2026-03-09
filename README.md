@@ -28,11 +28,11 @@ What These Projects Demonstrated
 
 🛠 Tools Used
 
-SQL (data profiling, validation queries, constraints)
+SQL (Data profiling, validation queries, constraints)
 
-Microsoft Excel (data transformation & quality checks)
+Microsoft Excel (Data transformation, cleaning functions & quality checks)
 
-Power BI (data modeling & transformation using Power Query)
+Power BI (Data transformation using Power Query)
 
 Power Query (ETL processes)
 
